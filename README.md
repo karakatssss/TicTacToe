@@ -1,2 +1,2 @@
 # TicTacToe
-Simple game app using SwiftUi.How it works:You should pick one square then press it if its your turn(it would be written in the top) and if you got 3 in one line you will win.
+Developed a classic Tic-Tac-Toe game for iOS using Swift and SwiftUI. The app features a responsive 3×3 game board, turn-based gameplay, win/draw detection logic, and a reset mechanism for starting new games. Implemented clean state management to track player turns and game progress while following Apple’s UI/UX guidelines. Focused on simple, intuitive user interaction and maintainable code structure.
